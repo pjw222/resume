@@ -49,8 +49,14 @@ h1, h2 {
 }
 
 i {
-    margin-right: 0.5rem;    /* SNS 아이콘 오른쪽 여백 */
+    margin-right: auto;    /* SNS 아이콘 오른쪽 여백 */
 }
 #mainLeft {
     border-right: 1px solid rgba(0, 0, 0, 0.979);
+}
+nav ul li{
+    display: inline-block;
+}
+.dropdown-menu,dropdown-item{
+    display: inline-block;
 }
