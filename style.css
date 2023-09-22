@@ -57,6 +57,3 @@ i {
 nav ul li{
     display: inline-block;
 }
-.dropdown-menu,dropdown-item{
-    display: inline-block;
-}
