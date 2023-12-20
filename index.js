@@ -14,7 +14,7 @@ document.getElementById("modal-box").onclick = (e) => {
 };
 
 const projectArr = {
-  firstProject: { details: "어쩌구 저쩌구~" },
+  firstProject: { details: '<a href="https://github.com/pjw222/ProjectCar">프로젝트 링크</a>' },
   secondProject: { details: "어쩌구2 저쩌구~2" },
 };
 
