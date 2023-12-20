@@ -16,6 +16,7 @@ document.getElementById("modal-box").onclick = (e) => {
 const projectArr = {
   firstProject: { details: '<a href="https://github.com/pjw222/ProjectCar">https://github.com/pjw222/ProjectCar</a>' },
   secondProject: { details: '<a href="https://github.com/pjw222/Camping">https://github.com/pjw222/Camping</a>' },
+  realsite: { details: '<a href="https://youagit.com/">https://youagit.com/</a>' },
 };
 
 [...document.getElementsByClassName("project-info")].forEach((i) => {
